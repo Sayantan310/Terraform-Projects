@@ -1,0 +1,6 @@
+{
+"vm_name": "Sayantan",
+"resource_group" : "1234-dev", 
+"new_size" : "Standard_D2s_v3", 
+"resource_id" : "/subscriptions/d08202be-b5f1-4e6f-9a1d-880443055ed2/resourceGroups/1234-dev/providers/Microsoft.Compute/virtualMachines/Sayantan"
+}
